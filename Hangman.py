@@ -1,4 +1,7 @@
 from tk import *
 
-Mainwindow = tk.Tk()
+mainwindow = tk.Tk()
 
+
+
+mainwindow.mainloop()
